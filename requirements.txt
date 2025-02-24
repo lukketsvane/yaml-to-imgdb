@@ -1,0 +1,8 @@
+requests
+python-dotenv
+serpapi
+colorama
+replicate
+tqdm
+concurrent-log-handler
+urllib3
