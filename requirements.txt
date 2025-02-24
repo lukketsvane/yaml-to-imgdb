@@ -1,8 +1,9 @@
 requests
 python-dotenv
-serpapi
+google-search-results
 colorama
 replicate
 tqdm
 concurrent-log-handler
 urllib3
+serp
